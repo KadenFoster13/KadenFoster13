@@ -3,7 +3,6 @@
 - 📫 How to reach me: kadenfoster21@gmail.com
 - 😄 Pronouns: He/Him
 
-My repository contains 3 projects:
+My repository contains 2 projects:
 - An old minesweeper solver I made a few years ago in Java
-- Some Python code used to run Lego Mindsweeper Robots
 - An improved version of my minesweeper solver which I'm currently working on
