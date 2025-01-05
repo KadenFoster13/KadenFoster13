@@ -12,12 +12,20 @@ My repository contains 2 projects:
   ```
   git clone repository url
   ```
+  How the Program Runs:
   - First, the classes are initialized
   - Then, variables for the various colours and the board state are initialized
+  - Then, the game is started by the AI clicking a central tile
+  - Then, a loop begins that will continue until all bombs have been located
+  - The loop starts by calculating how many bombs have been located
+  - Then, the board state is read and stored in an array
+  - Then, the AI checks how many bombs are adjacent to each tile
+  - If 
   ## `NewMinesweeperSolver.java`
   ```
   
   ```
+  How the Program Runs:
   - First, the classes are initialized
   - Then, the variables for the different colours associated with possible board states are initialized
   - Then, variables which change based on difficulty are initialized
